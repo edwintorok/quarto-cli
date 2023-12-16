@@ -14266,7 +14266,8 @@
     "dot": "//",
     "ojs": "//",
     "apl": "⍝",
-    "mermaid": "%%"
+    "mermaid": "%%",
+    "ocaml": ["(*", "*)"]
   },
   "handlers/mermaid/schema.yml": {
     "_internalId": 152480,

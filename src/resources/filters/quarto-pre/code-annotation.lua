@@ -54,7 +54,8 @@ local kLangCommentChars = {
   swift = { "//" },
   javascript = { "//"},
   elm = { "#" },
-  vhdl = { "--"}
+  vhdl = { "--"},
+  ocaml = { "(*", "*)" }
 
 }
 
